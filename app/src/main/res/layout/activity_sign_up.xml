@@ -96,19 +96,19 @@
 
     <TextView
         android:id="@+id/goToLogInText"
-        android:layout_width="338dp"
-        android:layout_height="45dp"
-        android:text="Already a member? Log In"
+        android:layout_width="390dp"
+        android:layout_height="51dp"
+        android:text="Anda Sudah Punya Akun? Log In"
         android:textColor="@color/common_google_signin_btn_text_dark_default"
         android:textSize="24sp"
         android:textStyle="bold"
         app:fontFamily="casual"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.493"
+        app:layout_constraintHorizontal_bias="0.761"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.948" />
+        app:layout_constraintVertical_bias="0.974" />
 
     <Button
         android:id="@+id/signUpButton"
